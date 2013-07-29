@@ -1,7 +1,7 @@
 ;; i3-manager
 ;; Author: Tiago Natel de Moura <natel@secplus.com.br>
 ;;
-;; Try to improve the i3 interface for emacs-hackers
+;; Trying to improve the i3 interface for emacs-hackers
 ;;
 
 (require 'cl)
