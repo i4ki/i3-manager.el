@@ -8,6 +8,7 @@
 (require 'i3)
 (require 'i3-integration)
 (require 'tree-widget)
+(require 'ido)
 
 (defvar i3-manager-buffer-name "*i3-manager*"
   "Name of the i3-manager buffer")
