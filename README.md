@@ -39,7 +39,8 @@ and insert the line below to your .emacs or .emacs.d/init.el file:
 
 (require 'i3-manager)
 
-;; set the keybindings (*Modify as you want*)
+;; set the keybindings ( *Modify as you want* )
+
 (global-set-key (kbd "C-c C-3") 'i3-manager-move-to-workspace)
 (global-set-key (kbd "C-c C-n") 'i3-manager-new-workspace)
 (global-set-key (kbd "C-c C-w") 'i3-manager-find-window)
